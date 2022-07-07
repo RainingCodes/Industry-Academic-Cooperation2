@@ -69,3 +69,12 @@ npm run android
 시스템 환경변수 PATH에 adb.exe의 위치를 넣어줌
 
 기존 터미널들은 닫고 재실행(VSCode는 껐다 켜야 함)
+
+
+## 6. 실행화면
+<br>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img4.JPG" width="900px" height="1000px" alt="서버"></img><br/>
+<br>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img5.JPG" width="700px" height="1000px" alt="휴대폰1"></img><br/>
+<br>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img6.JPG" width="500px" height="1000px" alt="휴대폰2"></img><br/>
