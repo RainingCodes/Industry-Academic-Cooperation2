@@ -75,6 +75,6 @@ npm run android
 <br>
 <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img4.JPG" width="900px" height="1000px" alt="서버"></img><br/>
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img5.JPG" width="700px" height="1000px" alt="휴대폰1"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img5.JPG" width="900px" height="1000px" alt="휴대폰1"></img><br/>
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img6.JPG" width="500px" height="1000px" alt="휴대폰2"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img6.JPG" width="700px" height="1000px" alt="휴대폰2"></img><br/>
