@@ -10,7 +10,7 @@ python도 오래 전 이미 깔아두어 버전만 확인함
 
 ## 2. java 설치된 버전 확인
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img3.JPG" width="900px" height="1000px" alt="버전 확인2"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img3.JPG" width="1000px" height="300px" alt="버전 확인2"></img><br/>
 
 ## 3. React Native CLI 설치
 설치
@@ -22,7 +22,7 @@ npm install -g react-native-cli
 npx react-native --version
 ```
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img1.JPG" width="900px" height="1000px" alt="설치 & 버전 확인"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img2.JPG" width="900px" height="1000px" alt="설치 & 버전 확인"></img><br/>
 
 
 # 프로젝트 구축
