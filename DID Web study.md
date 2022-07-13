@@ -51,7 +51,7 @@
 
 * client 화면에서 Make Connection 실행 -> filed 입력 후 Register Information 실행(email, nickname, birth만 전달됨테스트함)
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img13.JPG" width="1000px" height="300px" alt="connect&register"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img13.JPG" width="1000px" height="700px" alt="connect&register"></img><br/>
  <br>
 
 * client 서버의 실행 로그
@@ -66,7 +66,7 @@
 
 * client 화면에서 Get DID Credential -> Prove DID Credential 실행
 <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img16.JPG" width="1000px" height="300px" alt="did"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img16.JPG" width="1000px" height="700px" alt="did"></img><br/>
  <br>
 
 * authenticator 서버의 실행 로그
