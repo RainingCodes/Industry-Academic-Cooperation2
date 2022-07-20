@@ -28,7 +28,13 @@
 <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img19.JPG" width="1000px" height="700px" alt="result1"></img><br/>
     - manager 화면에서 Result가 출력된 걸 먼저 확인함
     - client 화면에서 Register Information을 누르면 manager가 등록한 schema에 맞는 field들이 선택되어 나옴
+    - field 입력후 Submit 버튼 클릭
 
  <br>
 <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img20.JPG" width="1000px" height="1200px" alt="result2"></img><br/>
+ <br>
+    - client server에서 전달내용을 확인할 수 있음
+  
+ <br>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img21.JPG" width="1000px" height="1200px" alt="result3"></img><br/>
  <br>
