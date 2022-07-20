@@ -36,5 +36,5 @@
     - client server에서 전달내용을 확인할 수 있음
   
  <br>
-<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img21.JPG" width="2000px" height="1200px" alt="result3"></img><br/>
+<img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img21.JPG" width="2000px" height="800px" alt="result3"></img><br/>
  <br>
