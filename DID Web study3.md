@@ -28,8 +28,8 @@
    - client : field 작성
    - client : submit 버튼 클릭
    <br>
-  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img23.JPG" width=300px" height="1000px" alt="result2"></img><br/>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img23.JPG" width=500px" height="1000px" alt="result2"></img><br/>
  <br>
    - client : SSO(생성한 Authentication Type으로 생성된) 버튼 클릭
    <br>
-  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img23.JPG" width=250px" height="1000px" alt="result3"></img><br/>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img23.JPG" width=500px" height="1000px" alt="result3"></img><br/>
