@@ -26,3 +26,10 @@
   <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img26.JPG" width="2000px" height="1000px" alt="log"></img><br/>
  <br>
+
+## 목표 5 : email 검증을 위해 email로 code 확인하기 위한 ui 추가
+  1. 'validation' 버튼을 누르면 코드를 넣을 수 있는 input tag js로 생성
+  2.  input tag에 입력한 값이 email로 전송된 code와 같은 지 확인하는 check button도 js로 같이 생성
+  <br>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img27.JPG" width="2000px" height="7000px" alt="log"></img><br/>
+ <br>
