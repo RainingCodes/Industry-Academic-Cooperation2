@@ -38,7 +38,7 @@
  * android 프로젝트에서 app\jniLibs 아래에 arm64-v8a, armeabi-v7a 폴더 생성후 위에 지정한 ndk 폴더에 직접 가서 sources\cxx-stl\llvm-libc++\libs\\(넷중아무거나)\libc++_shared.so 파일을 복사
   - 아래처럼 프로젝트 app\jniLibs에 붙여넣기
 <br>
-  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img38.JPG" width="300px" height="500px" alt="jniLibs"></img><br/>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img38.JPG" width="400px" height="500px" alt="jniLibs"></img><br/>
 
 
   
