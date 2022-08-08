@@ -21,9 +21,6 @@
    - 아래와 같이 ndk location 지정
    <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img36.JPG" width="1000px" height="700px" alt="NDK location"></img><br/>
-   - libvcx를 project 내로 아래와 같이 이동
-  <br>
-  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img35.JPG" width="500px" height="700px" alt="move libvcx"></img><br/>
    - build.gradle(Module)에서 ndk 부분을 아래와 같이 수정
   ```
   ndk { abiFilters 'armeabi-v7a', 'arm64-v8a' }
