@@ -8,9 +8,9 @@
   <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img33.JPG" width="1500px" height="300px" alt="move wget.exe"></img><br/>
  * git bash에 아래 명령어 입력, demo program src 다운로드 <br>
-  ```
-  $ git clone https://github.com/sktston/vcx-demo-android.git
-  ``` <br>
+      ```
+      $ git clone https://github.com/sktston/vcx-demo-android.git
+      ``` <br>
  * Anroid studio로 다운받은 프로젝트 open
    - 상단 메뉴에서 Tools > SDK Manager click
    - 새로 뜬 창에서 Sdk Tools 탭 click, Show Package details 버튼 check, NDK 20.1.XXX 버전 check, OK 버튼 click
