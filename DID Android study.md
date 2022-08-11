@@ -40,5 +40,16 @@
 <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img38.JPG" width="400px" height="500px" alt="jniLibs"></img><br/>
 
-
+  # 2. 요구사항
+  ## 목표 1 : Android client 화면 구성하기
+  * 아직 server쪽은 작동하지 않는 상태임 (버튼 동작 X)
+    - mediator가 없어서 작동 X
+    - web과 달리 mediator가 필요한 이유는 휴대폰은 고정 ip를 갖지 않으므로, mediator를 통해서 block chain server와 통신할 필요가 있음
+  * 초기 화면
+  <br>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img40.jpg" width="300px" height="500px" alt="default"></img><br/>
+  * 웹 client 화면에 구현된 field 입력하는 부분을 배치하는 작업이 필요함
+  * table 형태로 입력하는 모양을 유지하기 위해 table layout을 이용해 배치
+  <br>
+  <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img41.jpg" width="300px" height="500px" alt="field table"></img><br/>
   
