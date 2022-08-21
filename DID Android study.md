@@ -21,10 +21,10 @@
    - 아래와 같이 ndk location 지정
    <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img36.JPG" width="1000px" height="700px" alt="NDK location"></img><br/>
+
    - build.gradle(Module)에서 ndk 부분을 아래와 같이 수정
   ```
   ndk { abiFilters 'armeabi-v7a', 'arm64-v8a' }
-  ```
   ```
    - Sync Now click
 
@@ -48,6 +48,7 @@
   * 초기 화면
   <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img40.jpg" width="300px" height="500px" alt="default"></img><br/>
+  
   * 웹 client 화면에 구현된 field 입력하는 부분을 배치하는 작업이 필요함
   * table 형태로 입력하는 모양을 유지하기 위해 table layout을 이용해 배치
   <br>
