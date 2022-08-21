@@ -7,6 +7,7 @@
    - C:/Windows/System32에 exe 파일 이동
   <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img33.JPG" width="1500px" height="300px" alt="move wget.exe"></img><br/>
+
  * git bash에 아래 명령어 입력, demo program src 다운로드 <br>
       ```
       $ git clone https://github.com/sktston/vcx-demo-android.git
@@ -16,6 +17,7 @@
    - 새로 뜬 창에서 Sdk Tools 탭 click, Show Package details 버튼 check, NDK 20.1.XXX 버전 check, OK 버튼 click
    <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img31.JPG" width="1500px" height="1000px" alt="NDK download"></img><br/>
+  
    - 상단 메뉴에서 File > Project Structure click
    - 새로 뜬 창에서 SDK Location 탭 click
    - 아래와 같이 ndk location 지정
@@ -48,7 +50,7 @@
   * 초기 화면
   <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img40.jpg" width="300px" height="500px" alt="default"></img><br/>
-  
+
   * 웹 client 화면에 구현된 field 입력하는 부분을 배치하는 작업이 필요함
   * table 형태로 입력하는 모양을 유지하기 위해 table layout을 이용해 배치
   <br>
