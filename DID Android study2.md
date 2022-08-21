@@ -5,6 +5,8 @@
 ## 목표 2 : Android client 화면에 로그를 출력하라
 참고 사이트 : (https://coderwall.com/p/s0wo3q/android-read-the-logcat-programmatically)
    * 지난번과 달리 server가 작동하는 상태의 Android App Project를 전달받음
+       - web server와의 통신은 Volley를 이용해 통신함
+       - Emulator가 pc의 localhost에 접속하는 ip 주소 : 10.0.2.2
        - Android App에서 버튼을 누르면 log가 태그와 함께 출력되고 있는 상황
        - 실행 화면
   <br>
