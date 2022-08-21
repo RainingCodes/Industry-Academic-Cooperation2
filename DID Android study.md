@@ -15,12 +15,15 @@
  * Anroid studio로 다운받은 프로젝트 open
    - 상단 메뉴에서 Tools > SDK Manager click
    - 새로 뜬 창에서 Sdk Tools 탭 click, Show Package details 버튼 check, NDK 20.1.XXX 버전 check, OK 버튼 click
+
+
    <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img31.JPG" width="1500px" height="1000px" alt="NDK download"></img><br/>
-  
+
    - 상단 메뉴에서 File > Project Structure click
    - 새로 뜬 창에서 SDK Location 탭 click
    - 아래와 같이 ndk location 지정
+  
    <br>
   <img src="https://github.com/RainingCodes/BlockChainProjectStudy/blob/main/img/img36.JPG" width="1000px" height="700px" alt="NDK location"></img><br/>
 
