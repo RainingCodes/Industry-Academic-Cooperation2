@@ -12,6 +12,7 @@
  * 해결방안
     - SharedPreferences : 앱 종료 후 다시 실행시켰을 때 정보가 남아있을 수 있도록 key, value 쌍을 저장해 두는 방법
     - SharedPreferences에 wallet, connection 여부, 사용자의 정보를 저장하도록 변경
+    - 이미 실행되었을 button의 경우 다시 button을 누르면 toast가 뜨거나 버튼명이 바뀌고 다른 Activity가 실행되는 등 다른 동작을 수행하도록 변경
     - 변경이 불가능하도록 입력한 정보들이 textview, imageview가 고정인 화면 새로 추가
     - 갤러리에서 선택한 사진을 앱 내 저장소에 저장하도록 함
     - schema에 photo가 포함되어 있을 때 기본 이미지 파일을 jpg 파일로 설정함
