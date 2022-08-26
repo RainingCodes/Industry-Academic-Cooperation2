@@ -18,13 +18,13 @@
     <br>(모든 작업이 마무리되면 추가해도 됨) 
 
   * Android의 수정사항
-   - 문제상황 1
+    - 문제상황 1
     <br>web server 쪽 변수명과 Android 쪽의 변수명을 달리해서 error 발생
-   - 문제상황 2
+    - 문제상황 2
     <br>Android에서 JSON으로 data를 담을 때 / 문자가 포함되어 있으면 앞에 \가 추가되는 문제 발생
 
   * 문제 해결
-  - client의 wallet, connection 등의 정보를 담는 class 추가
-  - 정보를 담아서 list에 보관하고 JWT를 이용해 현재 요청중인 client를 찾아서 해결하도록 함
-  - birthday를 처리할 때 /가 포함되지 않도록 변경
+    - client의 wallet, connection 등의 정보를 담는 class 추가
+    - 정보를 담아서 list에 보관하고 JWT를 이용해 현재 요청중인 client를 찾아서 해결하도록 함
+    - birthday를 처리할 때 /가 포함되지 않도록 변경
  
